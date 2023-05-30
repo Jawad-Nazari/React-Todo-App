@@ -106,7 +106,7 @@ In order to run this project you need:
 👤 **Jawad Nazari**
 
 - GitHub: [@Jawad-Nazari](https://github.com/Jawad-Nazari)
-- LinkedIn: [Jawad-Nazari](https://www.linkedin.com/in/Jawad-)
+- LinkedIn: [Jawad-Nazari](https://www.linkedin.com/in/Jawad-Nazari)
 - Twitter: [@nazari_jawad58](https://twitter.com/nazari_jawad58)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
