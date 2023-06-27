@@ -2,8 +2,6 @@
 
 </div>
 
-![Poject Screenshot](image.png)
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
